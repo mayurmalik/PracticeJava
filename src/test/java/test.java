@@ -7,5 +7,7 @@ public class test {
         System.out.println("test data44");
         System.out.println("test data54");
 
+         System.out.println("added to master");
+
     }
 }
