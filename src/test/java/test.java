@@ -9,7 +9,7 @@ public class test {
 
          System.out.println("added to master");
 
-        System.out.println("manu malik");
+        System.out.println("manu malik98");
 
     }
 }
