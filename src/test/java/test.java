@@ -9,5 +9,7 @@ public class test {
 
          System.out.println("added to master");
 
+        System.out.println("added code in branch3");
+
     }
 }
